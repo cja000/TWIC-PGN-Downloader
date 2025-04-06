@@ -21,8 +21,8 @@ It allows users to download all available PGN files or a specific range of files
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/twic-pgn-downloader.git
-   cd twic-pgn-downloader
+   git clone https://github.com/cja000/TWIC.git
+   cd TWIC
    ```
 
 2. Install the required packages:

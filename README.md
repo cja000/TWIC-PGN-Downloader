@@ -83,4 +83,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or suggestions, please contact [your email].
+For any questions or suggestions, please use the issues section of the repository.
